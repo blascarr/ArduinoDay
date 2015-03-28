@@ -1,0 +1,39 @@
+Taller Sigue lineas Nivel medio
+
+Presentacion.
+
+.-Librerías.
+	.- Nivel de programación en C++
+	.- Declarar el objeto de la libreria (SLDlabs)
+    .- Explicar funciones de la libreria.
+.- Driver L298N
+	Logical voltage: 5V
+	Drive voltage: 5V-35V
+	Logical current: 36mA
+	Drive current: 2A (MAX single bridge)
+
+Explicacion del proyecto.   A traves de dos sensores LDR, definir el comportamiento del vehiculo.
+
+Ejercicio 1 - Serial para ver el umbral.
+  *** definir el umbral de cada uno.
+	
+Ejercicio 2 - Funciones de movimiento (Avanzar, retroceder, girar_dcha, girar_izda, detener)
+
+Ejercicio 3 - Mover con más o menos velocidad.
+
+Ejercicio 4 - Siguelineas
+
+Ejercicio 5 - Paso de cebra. Consiste en que el robot cuente las lineas blancas y se pare en el número indicado por programación. 
+	Ejercicio 5.1 - Si giramos el robot, se sale de la hoja. Hay que utilizar los dos sensores para orientarlo en linea recta. y a partir de ese momento contar las lineas.
+
+Ejercicio 6 - Paso de arcoiris. Con escala de grises habrán de parar en distintos estados.
+	Primero se les proporciona una hoja para calibrar los distintos estados umbrales de la escala de grises. 
+	Después se les ofrecen los estados desordenados y deben de dirigirse al que se haya definido.
+	Es conveniente que el control se haga con los dos sensores, además de poder utlizar medidas estadísticas para detectar los valores más exactos.
+
+Ejercicio 7 - Laberinto.
+
+Ejercicio 8 - Torneo de sumo.
+
+	Ejercicio 8.1 Torneo de sumo laberíntico.
+
